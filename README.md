@@ -7,6 +7,7 @@ Data analysis of college management
 The College Management System Database is designed to store and manage student, faculty, library, and user authentication details efficiently. The database consists of multiple interrelated tables, ensuring smooth operations such as student enrollment, book issuance, user authentication, and role-based access control.
 
 ##  Key Objectives :
+
 #### Student Management: 
 Store and retrieve student details such as ID, name, contact information, and date of birth.
 #### Library Management:
@@ -17,7 +18,7 @@ Store user credentials, roles, and login details for secure access control.
 Implement different user roles with specific permission levels
 
 # Tools & Library Used
-<img src="https://github.com/vaishu-08/college_management_database/blob/main/image/IMG_MYSQL.jpg" alt="mysql_img.png" width="400"/> &nbsp;
+<img src="https://github.com/vaishu-08/college_management_database/blob/main/image/My_sql.jpg" alt="mysql_img.png" width="300"/> &nbsp;
 
 ## Project Result 
 
