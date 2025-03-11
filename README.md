@@ -86,7 +86,7 @@ Q  7 .  "students who have issued books but don’t have a login account?"
 
   Q 15. "books that are priced above the average price?"
 
-  <img src="image/14.png" alt="que_14" width = "200"/> &nbsp;
+  <img src="image/15.png" alt="que_15" width = "200"/> &nbsp;
 
   
  
